@@ -1,16 +1,30 @@
 ## Hi there 👋
 
-<!--
-**Ariiellus/Ariiellus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Ariel, people called me Ariiellus. I love to learn new stuffs. Sometimes I research new developments in Ethereum. Sometimes I analyze mechanism designs around cryptoeconomics. 
 
-Here are some ideas to get you started:
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/66e0c6caee0aa6b85181bbe4?variant=dark" alt="roadmap.sh"/></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I do
+[Kairos Research](https://twitter.com/Research_Kairos/) ⌛️
+Co founder, CEO and Main Researcher. I lead my team to write amazing blogs while we build a portfolio tracker.
+
+[Ethereum Mexico](https://x.com/Ethereum_mexico) 🇲🇽
+Co founder, former Community Lead now I’m grant manager and find ways to incentivize the community to build in the Infinite Garden.
+
+### Skills
+
+I’m good explaining high technical topics like:
+
+- 🌳 MEV
+- 🔢 Cryptoeconomics
+- 🧱 DeFi Analyst
+- 🕵️‍♂️ Privacy
+- 👨‍🔬 Ethereum Research
+
+### Interests
+
+- ♟️ Chess
+- 🤸 Calisthenics
+- 👟 Running
+- 🏔️ Mountaineering
+- 🧠 Perpetual Learning
